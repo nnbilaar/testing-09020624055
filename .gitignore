@@ -1,0 +1,9 @@
+target/
+.netbeans/
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.mtj.tmp/
+*.DS_Store
